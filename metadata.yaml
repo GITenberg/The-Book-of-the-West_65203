@@ -1,11 +1,16 @@
 _repo: The-Book-of-the-West_65203
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65203-h/images/cover.jpg
 creator:
   author:
     agent_name: Kennedy, Howard Angus
     gutenberg_agent_id: '53231'
     url: http://www.gutenberg.org/2009/agents/53231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65203#The-Book-of-the-West
 gutenberg_issued: '2021-04-30'
 gutenberg_type: Text
 identifiers:
